@@ -49,20 +49,20 @@ function Header() {
               <Nav.Link as={Link} to="/">
                 Home
               </Nav.Link>
-              <Nav.Link as={Link} to="/about">
+              <Nav.Link as={Link} to="/">
                 About
               </Nav.Link>
-              <Nav.Link as={Link} to="/menu">
+              <Nav.Link as={Link} to="/">
                 {" "}
                 Our Menu
               </Nav.Link>
-              <Nav.Link as={Link} to="/shop">
+              <Nav.Link as={Link} to="/">
                 Shop
               </Nav.Link>
-              <Nav.Link as={Link} to="/blog">
+              <Nav.Link as={Link} to="/">
                 Blog
               </Nav.Link>
-              <Nav.Link as={Link} to="/contact">
+              <Nav.Link as={Link} to="/">
                 Contact
               </Nav.Link>
               <Nav.Link as={Link} to="/">
